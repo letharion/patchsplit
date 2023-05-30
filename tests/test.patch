@@ -1,0 +1,13 @@
+diff --git a/.test.yml b/.test.yml
+index aaaaaa..bbbbbb 100644
+--- a/.test.yml
++++ b/.test.yml
+Important patch content goes here.
+diff --git a/CHANGELOG.md b/CHANGELOG.md
+index cccccc..dddddd 100644
+--- a/CHANGELOG.md
++++ b/CHANGELOG.md
+@@ -1,542 +1,249 @@
+ # Release Notes
+
+ New stuff does really cool stuff.
